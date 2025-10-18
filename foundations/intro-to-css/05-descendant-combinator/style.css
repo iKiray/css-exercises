@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.container .text {
+    background-color: hsl(50, 100%, 50%);
+    color: hsl(0, 100%, 50%);
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Below are some other possible descendant combinators:
+
+div p
+div .text
+.container p
+
+*/
